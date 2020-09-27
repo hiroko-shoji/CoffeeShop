@@ -622,6 +622,7 @@ input.btn{
     .location h4{
         font-size: 12px;
     }
+}
 
 @media screen and (max-width: 410px){
     .footer-content th, td{
