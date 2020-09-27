@@ -368,7 +368,7 @@ body{
 
 input.form-inline,
 label.form-inline{
-    display: inline;
+    display: inline-block;
     width: auto;
 }
 
